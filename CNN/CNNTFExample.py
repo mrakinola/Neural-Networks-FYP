@@ -1,4 +1,6 @@
 # Simple CNN to classify CIFAR images using Keras Sequential API 
+# CIFAR-10 Dataset is used for this network
+# TensorFlow Library imported along with a helper library Matplotlib.
 
 import tensorflow as tf
 from tensorflow.keras import datasets, layers, models
